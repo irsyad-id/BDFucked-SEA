@@ -1,0 +1,10 @@
+C:\Users\irsya\Source\repos\BDFucked\BDFucked\bin\Debug\BDFucked.exe.config
+C:\Users\irsya\Source\repos\BDFucked\BDFucked\bin\Debug\BDFucked.exe
+C:\Users\irsya\Source\repos\BDFucked\BDFucked\bin\Debug\BDFucked.pdb
+C:\Users\irsya\Source\repos\BDFucked\BDFucked\obj\Debug\BDFucked.Main.resources
+C:\Users\irsya\Source\repos\BDFucked\BDFucked\obj\Debug\BDFucked.Properties.Resources.resources
+C:\Users\irsya\Source\repos\BDFucked\BDFucked\obj\Debug\BDFucked.csproj.GenerateResource.cache
+C:\Users\irsya\Source\repos\BDFucked\BDFucked\obj\Debug\BDFucked.csproj.CoreCompileInputs.cache
+C:\Users\irsya\Source\repos\BDFucked\BDFucked\obj\Debug\BDFucked.exe
+C:\Users\irsya\Source\repos\BDFucked\BDFucked\obj\Debug\BDFucked.pdb
+C:\Users\irsya\Source\repos\BDFucked\BDFucked\obj\Debug\BDFucked.csprojAssemblyReference.cache
